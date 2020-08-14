@@ -1,0 +1,16 @@
+11,13,4,7
+*Space Radio Turned On*
+Hi Player, This Is The Game Master, Welcome To A Space Dimension!
+Your Goal Is To Locate The Planet Earth By Defeating All Aliens Lurking Around.
+First, Press W A S D Keys In Order To Move Around The Current Dimension.
+The Space Dimension You're Currently In Is Filled With Small Asteroids, So Your Movement is Limited.
+The Aliens and The 4 Big Asteroid Around Can Damage Your SpaceShip So As Much As Possible, Avoid Having A Contact With Them.
+To Kill The Aliens, You Must Press The Space Key or The Enter Key To Fire A Bullet
+A Corresponding Score Will Be Distributed Each Time An Alien Is Killed.
+Be Aware: You Must Wait The Bullet You Fired To Disappear In Order To Fire Again A Bullet.
+After You Defeated All The Aliens, A Science Related Question Will Appear With 4 Choices.
+The 4 Wormholes That Appeared Is A Portal To Another Different Dimension, So You Can Only Choose One.
+The Wormhole You Will Approach Will Represent The Letter Of Your Choice In The Science Question.
+If Your Choice Is Correct, A Corresponding Score Will Be Distributed Else A Corresponding Score Will Be Deducted.
+Have Fun Playing! And Don't Get Lost!
+*Space Radio Turned Off*

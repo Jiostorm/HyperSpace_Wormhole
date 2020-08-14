@@ -1,0 +1,19 @@
+HYPERSPACE WORMHOLE
+
+
+~ Instruction ~
+
+- To Move press W,A,S,D -
+
+- To Fire press Spacebar. -
+
+- The Player kills the Mobs in order to gain scores -
+
+- There`s some question will be given according to the Player's level -
+
+- Choose the right answer on 4 holes beside the question -
+
+- If the player answer the questions correctly, a score will be given -
+
+- Game over when the Player hits zero health or when the time is up -
+  
